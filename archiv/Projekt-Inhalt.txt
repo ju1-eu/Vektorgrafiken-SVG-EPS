@@ -1,0 +1,237 @@
+% ---------------------------------
+% Inhalt vom Projektverzeichnis.
+% 'archiv/Projekt-Inhalt.txt'
+% ju 10-Aug-2020 Projekt-Inhalt.txt
+% ---------------------------------
+% 
+/c/daten/illustrator/design/Vektorgrafiken-SVG-EPS
+-rw-r--r-- 1 jan 197121  210 Aug 10 19:30 git-log.txt
+-rw-r--r-- 1 jan 197121  13K Aug 10 19:16 praeambel.sty
+-rw-r--r-- 1 jan 197121 1,5K Aug 10 19:16 book.tex
+-rw-r--r-- 1 jan 197121 1,6K Aug 10 19:16 print.tex
+-rw-r--r-- 1 jan 197121 4,7K Aug 10 19:16 praeambel-artikel.sty
+-rw-r--r-- 1 jan 197121 4,4K Aug 10 17:53 README.md
+-rw-r--r-- 1 jan 197121 290K Aug 10 17:50 README.pdf
+-rw-r--r-- 1 jan 197121  933 Aug 10 17:47 index.html
+-rw-r--r-- 1 jan 197121 619K Aug 10 13:40 Vektorgrafiken-artikel.pdf
+-rw-r--r-- 1 jan 197121 738K Aug 10 13:39 print.pdf
+-rw-r--r-- 1 jan 197121 727K Aug 10 13:39 book.pdf
+-rw-r--r-- 1 jan 197121  964 Aug 10 12:13 README.tex
+-rwxr-xr-x 1 jan 197121 6,2K Aug 10 12:01 projekt.sh
+-rw-r--r-- 1 jan 197121  930 Aug  7 10:22 Vektorgrafiken-artikel.tex
+-rw-r--r-- 1 jan 197121 1,4K Aug  6 22:38 Makefile
+
+tex-pandoc:
+total 53K
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:57 .
+-rw-r--r-- 1 jan 197121 6,7K Aug 10 19:57 Spickzettel-Markdown.tex
+-rw-r--r-- 1 jan 197121 7,6K Aug 10 19:57 README.tex
+-rw-r--r-- 1 jan 197121   41 Aug 10 19:57 Neu.tex
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:42 ..
+
+html:
+total 72K
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:57 .
+-rw-r--r-- 1 jan 197121 8,9K Aug 10 19:57 Spickzettel-Markdown.html
+-rw-r--r-- 1 jan 197121  12K Aug 10 19:57 README.html
+-rw-r--r-- 1 jan 197121  877 Aug 10 19:56 Neu.html
+-rw-r--r-- 1 jan 197121 6,0K Aug 10 19:56 alle-pics.html
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:42 ..
+
+cms-server:
+total 57K
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:56 .
+-rw-r--r-- 1 jan 197121 7,5K Aug 10 19:56 Spickzettel-Markdown.html
+-rw-r--r-- 1 jan 197121  11K Aug 10 19:56 README.html
+-rw-r--r-- 1 jan 197121   20 Aug 10 19:56 Neu.html
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:42 ..
+
+cms-lokal:
+total 57K
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:56 .
+-rw-r--r-- 1 jan 197121 7,5K Aug 10 19:56 Spickzettel-Markdown.html
+-rw-r--r-- 1 jan 197121  11K Aug 10 19:56 README.html
+-rw-r--r-- 1 jan 197121   20 Aug 10 19:56 Neu.html
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:42 ..
+
+Artikel:
+total 48K
+drwxr-xr-x 1 jan 197121   0 Aug 10 19:42 .
+drwxr-xr-x 1 jan 197121   0 Aug 10 19:42 ..
+drwxr-xr-x 1 jan 197121   0 Aug 10 19:21 Bsp
+-rw-r--r-- 1 jan 197121 930 Aug 10 17:47 Vektorgrafiken-artikel.tex
+-rw-r--r-- 1 jan 197121 942 Aug 10 17:47 Spickzettel-Markdown-artikel.tex
+
+archiv:
+total 426K
+-rw-r--r-- 1 jan 197121  225 Aug 10 19:57 Projekt-Inhalt.txt
+-rw-r--r-- 1 jan 197121  211 Aug 10 19:57 input-PDFs.txt
+-rw-r--r-- 1 jan 197121 2,2K Aug 10 19:57 inhalt.tex
+-rw-r--r-- 1 jan 197121  271 Aug 10 19:57 input-img.txt
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:42 ..
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:30 .
+-rw-r--r-- 1 jan 197121 361K Aug 10 19:30 md.zip
+-rw-r--r-- 1 jan 197121 5,9K Aug 10 19:30 tex.zip
+-rw-r--r-- 1 jan 197121  490 Aug 10 17:47 Pics-files.tex
+-rw-r--r-- 1 jan 197121  778 Aug 10 17:47 Quellcode-files.tex
+
+content:
+total 101K
+-rw-r--r-- 1 jan 197121  789 Aug 10 19:55 links.txt
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:42 ..
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:19 .
+-rw-r--r-- 1 jan 197121 1,5K Aug 10 19:16 book.tex
+-rw-r--r-- 1 jan 197121 1,6K Aug 10 19:16 print.tex
+-rw-r--r-- 1 jan 197121 2,7K Aug 10 18:33 literatur-kfz.bib
+-rw-r--r-- 1 jan 197121 6,9K Aug 10 18:33 literatur-sport.bib
+-rw-r--r-- 1 jan 197121 7,4K Aug 10 18:33 literatur.bib
+-rw-r--r-- 1 jan 197121  960 Aug 10 18:33 artikel.tex
+drwxr-xr-x 1 jan 197121    0 Aug 10 14:47 beispiele
+-rw-r--r-- 1 jan 197121  566 Aug 10 10:24 titlepage.tex
+-rw-r--r-- 1 jan 197121  666 Aug  9 09:47 metadata.tex
+-rw-r--r-- 1 jan 197121 2,0K Aug  7 10:17 inhalt.tex
+-rw-r--r-- 1 jan 197121  653 Aug  6 22:38 zusammenfassung.tex
+-rw-r--r-- 1 jan 197121 2,5K Aug  6 22:38 main-beamer-dummy.tex
+-rw-r--r-- 1 jan 197121  455 Aug  6 22:38 anhang.tex
+-rw-r--r-- 1 jan 197121 3,6K Aug  6 22:38 LaTeX-Beispiel-beamer.tex
+
+Grafiken:
+total 2,1M
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:42 ..
+-rw-r--r-- 1 jan 197121  33K Aug 10 15:01 logo-eps-converted-to.pdf
+drwxr-xr-x 1 jan 197121    0 Aug 10 15:01 .
+-rw-r--r-- 1 jan 197121  22K Aug 10 09:57 AI-Einfache-Formen.pdf
+-rw-r--r-- 1 jan 197121  18K Aug  8 20:18 AI-PPP.pdf
+-rw-r--r-- 1 jan 197121  18K Aug  8 20:18 AI-PFP.pdf
+-rw-r--r-- 1 jan 197121  22K Aug  8 20:18 AI-Form-erstellen.pdf
+-rw-r--r-- 1 jan 197121  17K Aug  8 20:18 AI-FK.pdf
+-rw-r--r-- 1 jan 197121 127K Aug  8 20:18 AI-Symmetrie.pdf
+-rw-r--r-- 1 jan 197121  32K Aug  8 20:18 Backup-Plan.pdf
+-rw-r--r-- 1 jan 197121  26K Aug  8 20:18 Git-Rueckgaengig.pdf
+-rw-r--r-- 1 jan 197121  20K Aug  8 20:18 Git-Reset-Revert.pdf
+-rw-r--r-- 1 jan 197121  23K Aug  8 20:18 Git-Wiederherstellen.pdf
+-rw-r--r-- 1 jan 197121  24K Aug  8 20:18 Git-Workflow.pdf
+-rw-r--r-- 1 jan 197121  21K Aug  8 20:18 Git-Team.pdf
+-rw-r--r-- 1 jan 197121  20K Aug  8 20:18 Git-Parallel.pdf
+-rw-r--r-- 1 jan 197121  21K Aug  8 20:18 Git-Entwicklung.pdf
+-rw-r--r-- 1 jan 197121  21K Aug  8 20:18 Tuer-Tuerlaufsensor-Hess.pdf
+-rw-r--r-- 1 jan 197121  22K Aug  8 20:18 Tuer-Endschalter-Hess.pdf
+-rw-r--r-- 1 jan 197121  33K Aug  8 20:18 Logo-SW.pdf
+-rw-r--r-- 1 jan 197121  33K Aug  8 20:18 Logo-negativ.pdf
+-rw-r--r-- 1 jan 197121  33K Aug  8 20:18 Logo-Grau.pdf
+-rw-r--r-- 1 jan 197121  33K Aug  8 20:18 Logo-Farbe.pdf
+-rw-r--r-- 1 jan 197121  29K Aug  8 20:18 logo.pdf
+-rw-r--r-- 1 jan 197121 8,6K Aug  8 20:00 AI-Symmetrie.svg
+-rw-r--r-- 1 jan 197121 4,1K Aug  8 19:58 AI-PPP.svg
+-rw-r--r-- 1 jan 197121 5,7K Aug  8 19:55 AI-PFP.svg
+-rw-r--r-- 1 jan 197121 3,9K Aug  8 19:52 AI-Form-erstellen.svg
+-rw-r--r-- 1 jan 197121  12K Aug  8 19:46 AI-FK.svg
+-rw-r--r-- 1 jan 197121  15K Aug  8 19:42 AI-Einfache-Formen.svg
+-rw-r--r-- 1 jan 197121  25K Aug  7 12:36 Backup-Plan.svg
+-rw-r--r-- 1 jan 197121 709K Aug  7 11:34 logo.eps
+-rw-r--r-- 1 jan 197121  16K Aug  7 11:33 Logo-Farbe.svg
+-rw-r--r-- 1 jan 197121  16K Aug  7 11:33 Logo-SW.svg
+-rw-r--r-- 1 jan 197121  16K Aug  7 11:33 Logo-Grau.svg
+-rw-r--r-- 1 jan 197121  16K Aug  7 11:33 Logo-negativ.svg
+-rw-r--r-- 1 jan 197121  25K Aug  7 11:08 Git-Rueckgaengig.svg
+-rw-r--r-- 1 jan 197121  17K Aug  7 11:08 Git-Workflow.svg
+-rw-r--r-- 1 jan 197121  25K Aug  7 11:08 Git-Team.svg
+-rw-r--r-- 1 jan 197121  17K Aug  7 11:08 Git-Parallel.svg
+-rw-r--r-- 1 jan 197121  17K Aug  7 11:08 Git-Entwicklung.svg
+-rw-r--r-- 1 jan 197121  18K Aug  7 11:08 Git-Wiederherstellen.svg
+-rw-r--r-- 1 jan 197121  18K Aug  7 11:08 Git-Reset-Revert.svg
+-rw-r--r-- 1 jan 197121 4,4K Aug  6 22:38 logo.svg
+-rw-r--r-- 1 jan 197121 222K Aug  6 22:38 titelbild.pdf
+-rw-r--r-- 1 jan 197121  79K Aug  6 22:38 titelbild-beamer.pdf
+-rw-r--r-- 1 jan 197121 8,4K Aug  6 22:23 Tuer-Tuerlaufsensor-Hess.svg
+-rw-r--r-- 1 jan 197121  15K Aug  6 22:23 Tuer-Endschalter-Hess.svg
+
+code:
+total 42K
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:42 ..
+drwxr-xr-x 1 jan 197121    0 Aug 10 15:00 .
+-rw-r--r-- 1 jan 197121  152 Aug 10 14:57 hallowelt-C++.cpp
+-rw-r--r-- 1 jan 197121 1,1K Aug 10 14:57 Makefile
+-rw-r--r-- 1 jan 197121  102 Aug  6 22:38 hallowelt.c
+
+img-out:
+total 33K
+drwxr-xr-x 1 jan 197121 0 Aug 10 19:42 ..
+drwxr-xr-x 1 jan 197121 0 Aug 10 14:45 Chili
+drwxr-xr-x 1 jan 197121 0 Aug 10 14:45 .
+-rw-r--r-- 1 jan 197121 6 Aug 10 14:45 pics-liste.txt
+
+md:
+total 148K
+-rw-r--r-- 1 jan 197121  153 Aug 10 19:55 Neu.md
+-rw-r--r-- 1 jan 197121 5,1K Aug 10 19:53 README.md
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:42 ..
+-rw-r--r-- 1 jan 197121 1,6K Aug 10 19:17 Makefile
+-rw-r--r-- 1 jan 197121 6,0K Aug 10 18:36 github.css
+-rw-r--r-- 1 jan 197121 1,4K Aug 10 18:35 design.css
+-rw-r--r-- 1 jan 197121 2,7K Aug 10 18:33 literatur-kfz.bib
+-rw-r--r-- 1 jan 197121 6,9K Aug 10 18:33 literatur-sport.bib
+-rw-r--r-- 1 jan 197121 7,4K Aug 10 18:33 literatur.bib
+-rw-r--r-- 1 jan 197121 4,6K Aug 10 15:18 Spickzettel-Markdown.md
+drwxr-xr-x 1 jan 197121    0 Aug 10 14:42 .
+drwxr-xr-x 1 jan 197121    0 Aug 10 14:42 build
+-rw-r--r-- 1 jan 197121  582 Aug 10 09:52 _output.yaml
+-rw-r--r-- 1 jan 197121  14K Aug  6 22:38 zitierstil-number.csl
+-rw-r--r-- 1 jan 197121  30K Aug  6 22:38 pandoc.latex
+
+images:
+total 280K
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:42 ..
+drwxr-xr-x 1 jan 197121    0 Aug 10 14:36 .
+-rw-r--r-- 1 jan 197121 109K Aug  6 22:38 Chili-1.webp
+-rw-r--r-- 1 jan 197121 121K Aug  6 22:38 Chili-1.pdf
+
+tex:
+total 60K
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:42 ..
+-rw-r--r-- 1 jan 197121 6,8K Aug 10 17:49 Spickzettel-Markdown.tex
+-rw-r--r-- 1 jan 197121 7,0K Aug 10 17:47 README.tex
+drwxr-xr-x 1 jan 197121    0 Aug 10 12:48 .
+-rw-r--r-- 1 jan 197121 5,0K Aug 10 10:22 Vektorgrafiken.tex
+
+css:
+total 44K
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:42 ..
+-rw-r--r-- 1 jan 197121 6,0K Aug 10 18:36 github.css
+-rw-r--r-- 1 jan 197121 1,4K Aug 10 18:35 design.css
+drwxr-xr-x 1 jan 197121    0 Aug 10 09:40 .
+
+scripteBash:
+total 113K
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:42 ..
+-rwxr-xr-x 1 jan 197121  787 Aug 10 18:31 projektInhalt.sh
+-rwxr-xr-x 1 jan 197121 3,3K Aug 10 18:31 picFiles.sh
+-rwxr-xr-x 1 jan 197121 4,1K Aug 10 18:30 jpg-pdf.sh
+-rwxr-xr-x 1 jan 197121 1,5K Aug 10 18:30 inputPdfsLatex.sh
+-rwxr-xr-x 1 jan 197121 3,4K Aug 10 18:29 inputKapitelLatex.sh
+-rwxr-xr-x 1 jan 197121 1,1K Aug 10 18:28 inputImgMarkdown.sh
+-rwxr-xr-x 1 jan 197121   48 Aug 10 18:28 hallo.sh
+-rwxr-xr-x 1 jan 197121 8,2K Aug 10 18:28 codeFiles.sh
+-rwxr-xr-x 1 jan 197121 4,5K Aug 10 18:27 artikel-anlegen.sh
+-rwxr-xr-x 1 jan 197121 3,3K Aug 10 18:26 gitversionieren.sh
+-rwxr-xr-x 1 jan 197121 6,5K Aug 10 16:44 sed.sh
+-rwxr-xr-x 1 jan 197121 3,9K Aug 10 10:21 www.sh
+-rwxr-xr-x 1 jan 197121  608 Aug 10 10:12 projekterstellen.sh
+-rwxr-xr-x 1 jan 197121 1,2K Aug 10 10:10 markdownLatexHtml.sh
+drwxr-xr-x 1 jan 197121    0 Aug  8 20:17 .
+drwxr-xr-x 1 jan 197121    0 Aug  6 22:38 scripte-unbenutzt
+
+img-in:
+total 32K
+drwxr-xr-x 1 jan 197121 0 Aug 10 19:42 ..
+drwxr-xr-x 1 jan 197121 0 Aug  6 22:38 Chili
+drwxr-xr-x 1 jan 197121 0 Aug  6 22:38 .
+
+Tabellen:
+total 39K
+drwxr-xr-x 1 jan 197121    0 Aug 10 19:42 ..
+-rw-r--r-- 1 jan 197121  541 Aug  6 22:38 tabelle.md
+drwxr-xr-x 1 jan 197121    0 Aug  6 22:38 .
+-rw-r--r-- 1 jan 197121  254 Aug  6 22:38 tabelle.csv
+-rw-r--r-- 1 jan 197121   46 Aug  6 22:38 links.txt
+-rw-r--r-- 1 jan 197121 1,2K Aug  6 22:38 Tabelle.tex
