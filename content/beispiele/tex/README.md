@@ -5,22 +5,30 @@ date: \today
 bibliography: literatur.bib 
 csl: zitierstil-number.csl
 ---
-
+<!--ju 10-Aug-20 -->
 Erstellt Websiten & Latex-Files mit Markdown und Pandoc.
 Projekt wurde getestet unter "Ubuntu 18.04.3 LTS" und "Win10" 
 (erfordert **Git Bash**)    
     
 # Software
 
-- Git Bash [^1]
-- Github-Repository klonen [^2]
-- Texlive [^3]
-- Pandoc [^4]
-- Imagemagick [^5]
-- Editor Visual Studio Code [^6]
-- Editor Atom [^7]
-- Editor Notepad++ [^8]
-- TeXstudio [^9]
+- Git Bash[^1]
+- Github-Repository klonen[^2]
+- Texlive[^3]
+- Pandoc[^4]
+- Imagemagick[^5]
+- Editor Visual Studio Code[^6]
+- Editor Atom[^7]
+- Editor Notepad++[^8]
+- TeXstudio[^9]
+- Tablesgenerator[^10] 
+- hpi-dokumentvorlagen-latex[^11] 
+- Zotero[^12]
+- Wordpress[^13]
+- XAMPP Apache + MariaDB + PHP[^14]
+- Filezilla[^15]
+- VM VirtualBox[^16]
+- Ubuntu[^17]
 
 [^1]: <https://git-scm.com/downloads>
 [^2]: <https://github.com/ju1-eu/Vektorgrafiken-SVG-EPS.git>
@@ -31,7 +39,14 @@ Projekt wurde getestet unter "Ubuntu 18.04.3 LTS" und "Win10"
 [^7]: <https://atom.io/>
 [^8]: <https://notepad-plus-plus.org/downloads/>
 [^9]: <https://www.texstudio.org/>
-
+[^10]: <https://www.tablesgenerator.com/latex_tables>
+[^11]: <https://osm.hpi.de/theses/tipps#dokumentvorlagen-latex>
+[^12]: <http://www.zotero.org/styles/ieee>
+[^13]: <https://de.wordpress.org/download/>
+[^14]: <https://www.apachefriends.org/de/index.html>
+[^15]: <https://filezilla-project.org/>
+[^16]: <https://www.virtualbox.org/>
+[^17]: <https://ubuntu.com/download>
 
 # Erste Schritte
 
