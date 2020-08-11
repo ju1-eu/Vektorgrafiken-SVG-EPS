@@ -59,10 +59,12 @@ cms_lokal="cms-lokal"
 cms_server="cms-server"
 archiv="archiv"
 content="content"
-timestamp=$(date +"%Y-%h-%d")
-timestamp_2=$(date +"%d-%h-%Y")
-timestamp_3=$(date +"%d%m%y")
-copyright="Letztes Update: $timestamp_2"
+git_file="git-log.txt"
+timestamp_1=$(date +"%Y-%m-%d") # 2020-08-11
+timestamp_2=$(date +"%d-%h-%y") # 11-Aug-20
+timestamp_3=$(date +"%d%m%y")   # 110820
+timestamp_4=$(date +"%d.%h.%Y") # 11.Aug.2020
+copyright="ju $timestamp_2"
 
 # ---------------------------
 janein=1
@@ -158,7 +160,8 @@ while [ "$janein" -eq 1 ]; do
 		git commit -m"Projekt init"
 		git status
 		echo "# ----------------------------------------------"
-		git log --graph --oneline
+		git lg
+		git lg > $git_file  # neu anlegen
 		echo "# ----------------------------------------------"
 
 	# --------------------
@@ -166,7 +169,7 @@ while [ "$janein" -eq 1 ]; do
 		# git status und git log 
 		git status
 		echo "# ----------------------------------------------"
-		git log --graph --oneline
+		git lg
 		echo "# ----------------------------------------------"
 
     # --------------------

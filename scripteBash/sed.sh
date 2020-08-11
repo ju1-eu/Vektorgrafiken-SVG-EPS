@@ -29,8 +29,7 @@ tex_pandoc="tex-pandoc"
 cms_lokal="cms-lokal"
 cms_server="cms-server"
 html="html"
-strich="%+---------------------------------------------------------------------"
-timestamp=$(date +"%d-%h-%y")
+timestamp=$(date +"%d-%h-%y") # 11-Aug-20
 
 
 echo "+ sed - Wordpress"
@@ -160,7 +159,7 @@ for i in *.tex; do
 	# Fileanfang
 	# suchen und ersetzen: sed -i '/suchen/ s//ersetzen/g' "$i"
 	# loeschen:  sed -i '/suchen/d' "$i"
-	sed -i '1i% letztes Update: '$timestamp'' "$i"
+	sed -i '1i% ju '$timestamp'' "$i"
 
 
 	# Umlaute im Label

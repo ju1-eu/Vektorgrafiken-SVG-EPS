@@ -5,7 +5,7 @@ date: \today
 bibliography: literatur.bib 
 csl: zitierstil-number.csl
 ---
-<!--ju 10-Aug-20 -->
+<!--ju 11-Aug-20 -->
 Erstellt Websiten & Latex-Files mit Markdown und Pandoc.
 Projekt wurde getestet unter "Ubuntu 18.04.3 LTS" und "Win10" 
 (erfordert **Git Bash**)    
@@ -29,6 +29,8 @@ Projekt wurde getestet unter "Ubuntu 18.04.3 LTS" und "Win10"
 - Filezilla[^15]
 - VM VirtualBox[^16]
 - Ubuntu[^17]
+- Wordpress[^18]
+- themecheck[^19]
 
 [^1]: <https://git-scm.com/downloads>
 [^2]: <https://github.com/ju1-eu/Vektorgrafiken-SVG-EPS.git>
@@ -41,12 +43,14 @@ Projekt wurde getestet unter "Ubuntu 18.04.3 LTS" und "Win10"
 [^9]: <https://www.texstudio.org/>
 [^10]: <https://www.tablesgenerator.com/latex_tables>
 [^11]: <https://osm.hpi.de/theses/tipps#dokumentvorlagen-latex>
-[^12]: <http://www.zotero.org/styles/ieee>
+[^12]: <http://www.zotero.org/>
 [^13]: <https://de.wordpress.org/download/>
 [^14]: <https://www.apachefriends.org/de/index.html>
 [^15]: <https://filezilla-project.org/>
 [^16]: <https://www.virtualbox.org/>
 [^17]: <https://ubuntu.com/download>
+[^18]: <https://de.wordpress.org/themes/>
+[^19]: <https://themecheck.info/>
 
 # Erste Schritte
 

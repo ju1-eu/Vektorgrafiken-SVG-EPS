@@ -12,8 +12,8 @@ img="images"
 GRAFIKEN="Grafiken"
 
 info="index.html + pics.html erstellen."
-timestamp=$(date +"%d-%h-%y")
-copyright="letztes Update: $timestamp"
+timestamp=$(date +"%d-%h-%y") # 11-Aug-20
+copyright="ju $timestamp"
 
 echo "+ $info"
 
