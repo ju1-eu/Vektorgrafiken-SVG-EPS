@@ -14,23 +14,24 @@ Projekt wurde getestet unter "Ubuntu 18.04.3 LTS" und "Win10"
 
 - Git Bash[^1]
 - Github-Repository klonen[^2]
-- Texlive[^3]
-- Pandoc[^4]
-- Imagemagick[^5]
+- Texlive (Latex)[^3]
+- Pandoc (Dokumentenconverter)[^4]
+- Imagemagick (Bildbearbeitung)[^5]
 - Editor Visual Studio Code[^6]
 - Editor Atom[^7]
 - Editor Notepad++[^8]
-- TeXstudio[^9]
-- Tablesgenerator[^10] 
-- hpi-dokumentvorlagen-latex[^11] 
-- Zotero[^12]
+- TeXstudio (Latexeditor)[^9]
+- Tablesgenerator (Latex / Markdown)[^10] 
+- hpi-dokumentvorlagen-latex (Hasso-Plattner-Institut (HPI) Potsdam)[^11] 
+- Zotero (Literaturverwaltung)[^12]
 - Wordpress[^13]
 - XAMPP Apache + MariaDB + PHP[^14]
 - Filezilla[^15]
 - VM VirtualBox[^16]
-- Ubuntu[^17]
-- Wordpress[^18]
-- themecheck[^19]
+- Ubuntu (Desktop / Server)[^17]
+- Wordpress-themes[^18]
+- themecheck (Wordpress-themes)[^19]
+- ghostscript Z.B eps in pdf[^20]
 
 [^1]: <https://git-scm.com/downloads>
 [^2]: <https://github.com/ju1-eu/Vektorgrafiken-SVG-EPS.git>
@@ -51,6 +52,7 @@ Projekt wurde getestet unter "Ubuntu 18.04.3 LTS" und "Win10"
 [^17]: <https://ubuntu.com/download>
 [^18]: <https://de.wordpress.org/themes/>
 [^19]: <https://themecheck.info/>
+[^20]: <https://www.ghostscript.com/>
 
 # Erste Schritte
 
